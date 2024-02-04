@@ -1,0 +1,44 @@
+[
+    {
+        "role":"Senior Site Reliability Engineer",
+        "company": "F5 Inc - Security & Distributed Cloud",
+        "summary": "**Summary:** Managed the infrastructure and operations of servers, equipment, and systems for Security and Distributed Cloud (SDC) operations globally\n- Utilized Git to maintain Ansible inventories and extend playbook functionality\n- Deployed and configured new physical and virtual systems after bootstrap\n- Updated configurations and gathered data from existing hosts using Ansible\n- Participated in cross-team projects to ensure the smooth operation of critical customer workloads",
+        "range": "April 2021 - November 2023"
+    },
+    {
+        "role":"Enterprise Network Engineer",
+        "company":"F5 Inc - Global Support",
+        "summary":"**Summary:** Mentor...\n- Served as a KCS Coach and evangelist for the F5 KCS methodology program.\n- Handled technical issues of any complexity with minimal need for supervision\n- Verified network solutions and ensured appropriate products and services were selected to meet client requirements in coordination with the Engineering team\n- Provided Tier-3 support for Field Services, Global Support, Consulting, and Training organizations\n- Collaborated with Product Development and Product Management to ensure customer requirements were met and appropriately implemented\n- Provide support for the entire F5 product line, and all versions of software code and hardware\n- Reviewed, tested, and created content for F5's technical knowledge base, AskF5\n- Responsible for all CERT and security release alerts to the customer install base in coordination with Product Development team\n- Mentored other F5 technical groups\n- Actively interacted with Product Development group on behalf of all external organizations and customers",
+        "range":"October 2011 - April 2021"
+    },
+    {
+        "role":"Network Support Engineer II",
+        "company":"F5 Inc - Global Support",
+        "summary":"**Summary:** Provided support for Local Traffic Manager (LTM), Web Access Management (WAM), and WAN Optimization Manager (WOM) modules for versions 9, 10, and 11 of BIG-IP software\n- Diagnosed and troubleshooted hardware issues for all F5 hardware appliances\n- Established and configured lab environments to reproduce and confirm customer issues to report to appropriate teams\n- Effectively manage case escalations to tier 3 while maintaining customer communication\n- Ensured a consistently high-quality support experience for F5 customers and partners\n- Managed case escalations to Tier 3 while maintaining customer communication\n- Followed standards-based processes as defined in F5's Quality Management System",
+        "range":"July 2010 - October 2011"
+    },
+    {
+        "role":"Imaging Systems Engineer",
+        "company":"NightHawk Radiology Services",
+        "summary":"**Summary:** Assessed current state of imaging systems, projects, and outstanding support issues\n- Troubleshot and resolved customer image and system transmission issues\n- Installed, configured, monitored, and troubleshooted imaging workflow systems\n- Managed communication and prioritized internal and external IT requests, issues, and projects\n- Handled quotes, purchases, and escalation of system issues with vendor partners",
+        "range":"May 2010 - July 2010"
+    },
+    {
+        "role":"Remote Radiologist Specialist",
+        "company":"NightHawk Radiology Services",
+        "summary":"**Summary:** Supported end-to-end medical image routing on proprietary and internally developed Linux-based systems\n- Implemented new policies and procedures for international affiliates\n- Maintained and created VPN connections to facilitate the secure receipt of medical images\n- Configured and maintained remote multi-homed setups for radiologists\n- Configured and deployed remote access policies for remote medical provider setups\n- Managed quoting, purchasing, asset tracking, and inventory",
+        "range":"October 2008 - May 2010"
+    },
+    {
+        "role":"System Analyst",
+        "company":"NightHawk Radiology Services",
+        "summary":"**Summary:** Provided first-line support and escalation for any inbound customer issues\n- Troubleshot VPN connections for the transmission of inbound medical images\n- Monitored and tracked internal image routing and networking issues\n- Provided application-level support for customers on both Windows and Apple systems",
+        "range":"January 2007 - October 2008"
+    },
+    {
+        "role":"Administrator/Technician",
+        "company":"Intermax Networks",
+        "summary":"**Summary:** Monitored and troubleshooted networks to maintain a high quality of service\n- Administered and managed an OpenBSD email and web hosting server for customers\n- Installed and supported fixed wireless (point-to-point) radios and equipment\n- Conducted on-site service calls and provided phone-based technical support\n- Assembled workstations and racked servers.",
+        "range":"August 2005 - January 2007"
+    }
+]

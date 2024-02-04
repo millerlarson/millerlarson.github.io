@@ -1,0 +1,19 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing and Application performance","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "linux","git","bash","javascript","Python"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Bitbucket","Github","Docker","Kubernetes","NGINX","AWS"]
+  },
+  {
+    "grouping":"Containers, Cloud, CI/CD",
+      "skills":[
+          {"name":"Github","link":"https://www.github.com/millerlarson"}
+      ]
+  }
+]
