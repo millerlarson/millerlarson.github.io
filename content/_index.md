@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Resume"
 date: 
 sitemap:
   priority : 1.0
