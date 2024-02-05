@@ -2,7 +2,7 @@ name: hugo CI
 
 on:
   push:
-    branches: [ hugo ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -27,4 +27,4 @@ jobs:
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: millerlarson/millerlarson.github.io
-          publish_branch: main
+          publish_branch: gh-pages
