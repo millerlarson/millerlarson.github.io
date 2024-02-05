@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Miller Larson</title>
+    <link>https://resume.millerlarson.net/tags/</link>
+    <description>Recent content in Tags on Miller Larson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <atom:link href="https://resume.millerlarson.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ansible</title>
+      <link>https://resume.millerlarson.net/tags/ansible/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/ansible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AWS</title>
+      <link>https://resume.millerlarson.net/tags/aws/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://resume.millerlarson.net/tags/docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSON</title>
+      <link>https://resume.millerlarson.net/tags/json/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REST APIs</title>
+      <link>https://resume.millerlarson.net/tags/rest-apis/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Ecosystem</title>
+      <link>https://resume.millerlarson.net/tags/atlassian-ecosystem/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://resume.millerlarson.net/tags/atlassian-ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BOSH</title>
+      <link>https://resume.millerlarson.net/tags/bosh/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://resume.millerlarson.net/tags/bosh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://resume.millerlarson.net/tags/devops/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://resume.millerlarson.net/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://resume.millerlarson.net/tags/java/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://resume.millerlarson.net/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>monit</title>
+      <link>https://resume.millerlarson.net/tags/monit/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://resume.millerlarson.net/tags/monit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>python</title>
+      <link>https://resume.millerlarson.net/tags/python/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://resume.millerlarson.net/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>apache</title>
+      <link>https://resume.millerlarson.net/tags/apache/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/apache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>redirect</title>
+      <link>https://resume.millerlarson.net/tags/redirect/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/redirect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rewrite</title>
+      <link>https://resume.millerlarson.net/tags/rewrite/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ssl</title>
+      <link>https://resume.millerlarson.net/tags/ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/ssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web development</title>
+      <link>https://resume.millerlarson.net/tags/web-development/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Developer Ecosystem</title>
+      <link>https://resume.millerlarson.net/tags/atlassian-developer-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/atlassian-developer-ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bamboo</title>
+      <link>https://resume.millerlarson.net/tags/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bash/shell</title>
+      <link>https://resume.millerlarson.net/tags/bash/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/bash/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bitbucket</title>
+      <link>https://resume.millerlarson.net/tags/bitbucket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/bitbucket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confluence</title>
+      <link>https://resume.millerlarson.net/tags/confluence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/confluence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://resume.millerlarson.net/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JIRA</title>
+      <link>https://resume.millerlarson.net/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/jira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jQuery</title>
+      <link>https://resume.millerlarson.net/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maven</title>
+      <link>https://resume.millerlarson.net/tags/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/maven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring</title>
+      <link>https://resume.millerlarson.net/tags/spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/spring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>xml/xslt</title>
+      <link>https://resume.millerlarson.net/tags/xml/xslt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://resume.millerlarson.net/tags/xml/xslt/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
