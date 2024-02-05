@@ -2,7 +2,7 @@
 
 Repository to host my resume on GitHub pages and play with Actions.
 
-Built with the [hugo](https://gohugo.io/) framework
+Built with the [hugo](https://gohugo.io/) framework.
 
 ## [Getting Started](https://gohugo.io/getting-started/quick-start/)
 
