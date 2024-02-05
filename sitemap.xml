@@ -30,10 +30,6 @@
     <loc>https://resume.millerlarson.net/tags/docker/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url><url>
-    <loc>https://resume.millerlarson.net/</loc>
-    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
-    <priority>1</priority>
-  </url><url>
     <loc>https://resume.millerlarson.net/tags/json/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
   </url><url>
@@ -43,6 +39,10 @@
   </url><url>
     <loc>https://resume.millerlarson.net/tags/rest-apis/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+  </url><url>
+    <loc>https://resume.millerlarson.net/</loc>
+    <lastmod>2020-01-07T17:09:26+00:00</lastmod>
+    <priority>1</priority>
   </url><url>
     <loc>https://resume.millerlarson.net/tags/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>
