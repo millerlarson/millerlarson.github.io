@@ -36,9 +36,9 @@ name = "LinkedIn"
 link = "https://github.com/millerlarson/"
 name = "GitHub"
 
-#[[params.handles]]
-#link = "https://hub.docker.com/u/millerlarson"
-#name = "Docker"
+[[params.handles]]
+link = "https://hub.docker.com/u/millerl"
+name = "Docker"
 
 [[params.handles]]
 link = "https://keybase.io/miller"
